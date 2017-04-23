@@ -129,6 +129,10 @@ label input {
   width: 1.2rem;
   height: 1.2rem;
   vertical-align: middle;
+  margin-bottom: 2px;
+}
+form span {
+  color: #F00;
 }
 .finished {
   color: #39B662;
