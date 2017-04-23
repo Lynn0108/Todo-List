@@ -115,6 +115,9 @@ button {
   color: #FFF;
   border-radius: 0.3rem;
 }
+form {
+  margin-bottom: 2rem;
+}
 form div {
   color:  #000;
   text-align: left;
@@ -124,6 +127,7 @@ form div {
 label {
   display: inline-block;
   width: 93%;
+  word-wrap: break-word;
 }
 label input {
   width: 1.2rem;
